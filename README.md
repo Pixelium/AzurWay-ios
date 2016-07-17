@@ -2,9 +2,9 @@
 
 ##How to install
 
-Add this line to you podfile
+Add this line to you Podfile
 
-``shell
+``
 pod 'AzurWaySdk'
 ``
 
@@ -13,7 +13,7 @@ then, juste type :
 $ pod install
 ``
 
-You can find a demo app here : 
+You can find a demo app here : https://github.com/Pixelium/AzurWay-ios-demo
 
 ##How to configure
 

@@ -1,9 +1,9 @@
 {
-  "authors": "Tim",
-  "homepage": "http://example.com",
+  "authors": "Pixelium",
+  "homepage": "http://www.pixelium.fr",
   "license": {
     "type": "Commercial",
-    "text": "See http://yolo.com"
+    "text": "See http://commingSoon.fr"
   },
   "source": {
     "http": "http://b2b-azurway.com/sdk-files/AzurWaySdk-ios-1.0.0.zip"

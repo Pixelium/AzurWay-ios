@@ -1,5 +1,20 @@
 #AzurWay SDK
 
+##How to install
+
+Add this line to you podfile
+
+``shell
+pod 'AzurWaySdk'
+``
+
+then, juste type :
+``
+$ pod install
+``
+
+You can find a demo app here : 
+
 ##How to configure
 
 First, set the SDK public and secret key in the - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions function

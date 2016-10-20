@@ -79,6 +79,24 @@ First, set the SDK public and secret key in the - (BOOL)application:(UIApplicati
 | setHotelName | NSString | hotel name |
 | setHotelPhone | NSString | hotel phone number|
 |---|---|---|
+
+## AzurWaySDKOptions language list
+
+Since the version 1.0.2, you can change the sdk language by setting the AzurWaySDKOptions languageCode with the following codes :
+Here is the list of the language availiable (and their code) :
+
+* french (fr)
+* english (en)
+* dutch (nl)
+* japanese (ja)
+* spanish (es)
+* russian (ru)
+* portugese (pt-PT)
+* korean (ko)
+* italian (it)
+* german (de)
+* chinese (trad.) (zh-Hant)
+
 ## AzurWaySdkPaymentDelegate
 
 ``` obj-c
